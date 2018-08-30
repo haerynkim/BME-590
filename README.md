@@ -1,2 +1,55 @@
 # BME-590
-Medical Software Design
+Medical Software Design 
+
+This is confusing.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
